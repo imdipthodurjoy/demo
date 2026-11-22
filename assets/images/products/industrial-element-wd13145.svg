@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Industrial Filter · WD13145">
+<rect width="400" height="300" rx="18" fill="#e9e5f0"/>
+<circle cx="200" cy="145" r="125" fill="#ffffff" opacity=".58"/>
+<rect x="112" y="45" width="176" height="205" rx="18" fill="#26384c"/><rect x="128" y="62" width="144" height="171" rx="10" fill="#e9edf2"/><path d="M135 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M152 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M169 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M186 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M203 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M220 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M237 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M254 68l-10 160" stroke="#b3262d" stroke-width="3"/><path d="M271 68l-10 160" stroke="#b3262d" stroke-width="3"/><circle cx="200" cy="147" r="35" fill="none" stroke="#53677e" stroke-width="9"/>
+<rect x="18" y="263" width="364" height="25" rx="6" fill="#b3262d"/>
+<text x="200" y="281" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">WD13145</text>
+</svg>

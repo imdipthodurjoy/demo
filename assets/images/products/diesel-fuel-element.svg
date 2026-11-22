@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Diesel Fuel Filter">
+<rect width="400" height="300" rx="18" fill="#f4e8d9"/>
+<circle cx="200" cy="145" r="125" fill="#ffffff" opacity=".58"/>
+<rect x="155" y="40" width="90" height="55" rx="10" fill="#26384c"/><path d="M145 92h110l-12 100q-43 42-86 0Z" fill="#d7e0e8" stroke="#17365d" stroke-width="8"/><path d="M158 112h84M156 132h88M154 152h92" stroke="#7f91a3" stroke-width="5"/><path d="M174 201h52v30h-52z" fill="#26384c"/>
+<rect x="18" y="263" width="364" height="25" rx="6" fill="#17365d"/>
+<text x="200" y="281" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">FF5624</text>
+</svg>

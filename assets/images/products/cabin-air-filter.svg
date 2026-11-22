@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Cabin Air Filter">
+<rect width="400" height="300" rx="18" fill="#e7edf1"/>
+<circle cx="200" cy="145" r="125" fill="#ffffff" opacity=".58"/>
+<rect x="78" y="80" width="244" height="150" rx="12" fill="#d2dbe3" stroke="#26384c" stroke-width="9"/><path d="M95 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M119 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M143 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M167 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M191 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M215 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M239 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M263 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M287 88l-12 134" stroke="#b3262d" stroke-width="5"/><path d="M311 88l-12 134" stroke="#b3262d" stroke-width="5"/>
+<rect x="18" y="263" width="364" height="25" rx="6" fill="#b3262d"/>
+<text x="200" y="281" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">8104400</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Truck Filter · LF9009">
+<rect width="400" height="300" rx="18" fill="#f0e5df"/>
+<circle cx="200" cy="145" r="125" fill="#ffffff" opacity=".58"/>
+<rect x="88" y="83" width="224" height="138" rx="30" fill="#26384c"/><rect x="105" y="99" width="190" height="105" rx="20" fill="#e9edf2"/><path d="M120 105v94" stroke="#b3262d" stroke-width="5"/><path d="M138 105v94" stroke="#b3262d" stroke-width="5"/><path d="M156 105v94" stroke="#b3262d" stroke-width="5"/><path d="M174 105v94" stroke="#b3262d" stroke-width="5"/><path d="M192 105v94" stroke="#b3262d" stroke-width="5"/><path d="M210 105v94" stroke="#b3262d" stroke-width="5"/><path d="M228 105v94" stroke="#b3262d" stroke-width="5"/><path d="M246 105v94" stroke="#b3262d" stroke-width="5"/><path d="M264 105v94" stroke="#b3262d" stroke-width="5"/><path d="M282 105v94" stroke="#b3262d" stroke-width="5"/><rect x="160" y="53" width="80" height="34" rx="8" fill="#53677e"/>
+<rect x="18" y="263" width="364" height="25" rx="6" fill="#b3262d"/>
+<text x="200" y="281" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">LF9009</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Oil Filter · JX0810D1">
+<rect width="400" height="300" rx="18" fill="#dce5ef"/>
+<circle cx="200" cy="145" r="125" fill="#ffffff" opacity=".58"/>
+<rect x="125" y="42" width="150" height="205" rx="24" fill="#26384c"/><rect x="139" y="56" width="122" height="178" rx="17" fill="#e8edf2"/><path d="M145 82h110M145 98h110M145 114h110M145 130h110M145 146h110M145 162h110M145 178h110M145 194h110" stroke="#17365d" stroke-width="5"/><ellipse cx="200" cy="42" rx="75" ry="18" fill="#53677e"/><ellipse cx="200" cy="247" rx="75" ry="18" fill="#152b45"/>
+<rect x="18" y="263" width="364" height="25" rx="6" fill="#17365d"/>
+<text x="200" y="281" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">JX0810D1</text>
+</svg>

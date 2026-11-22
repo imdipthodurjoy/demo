@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Air Filter · K2034">
+<rect width="400" height="300" rx="18" fill="#e9edf2"/>
+<circle cx="200" cy="145" r="125" fill="#ffffff" opacity=".58"/>
+<path d="M95 65Q200 25 305 65L285 245Q200 275 115 245Z" fill="#34485d"/><path d="M112 78Q200 48 288 78L270 226Q200 248 130 226Z" fill="#f7f8fa"/><path d="M130 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M146 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M162 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M178 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M194 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M210 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M226 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M242 82l-10 140" stroke="#b3262d" stroke-width="5"/><path d="M258 82l-10 140" stroke="#b3262d" stroke-width="5"/>
+<rect x="18" y="263" width="364" height="25" rx="6" fill="#b3262d"/>
+<text x="200" y="281" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">K2034</text>
+</svg>
